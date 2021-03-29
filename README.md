@@ -5,7 +5,7 @@
 😄 My homepage is [erikjbrown.tech](https://erikjbrown.tech).
 
 🔭 I’m currently working on:
-Verbose Octo Blog, which is a MERN app for blogs. I'm using it to practice and try out techniques using different concepts I've learned in the past couple years. I will also use it to practice common features and also to get more experience with Redis, Docker, AWS, React, NodeJS, and MongoDB.
+Verbose Octo Blog, which is a MERN app for blogs. I'm using it to practice and try out techniques using different concepts I've learned in the past couple years. I will also use it to get more experience with Redis, Docker, AWS, React, NodeJS, and MongoDB.
 
 💬 Ask me about:
 MERN, AWS, my code, etc.

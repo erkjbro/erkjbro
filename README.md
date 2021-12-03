@@ -1,14 +1,11 @@
 ### Hey there! 👋
 
-🎊 My name is Erik. I'm a full-stack web developer that is focused on MERN and AWS. I also work freelance doing web development and consultation.
+🎊 My name is Erik. I'm a software engineer that is focused on React, Node, Next, TypeScript, and AWS.
 
 😄 My homepage is [erikjbrown.tech](https://erikjbrown.tech).
 
 🔭 I’m currently working on:
-TypeScript, Redux, Data Structures, and Algorithms
-
-💬 Ask me about:
-MERN, AWS, my code, etc.
+Ecommerce Platform using React, Next.js (SG), TypeScript, Contentful, SAM, and more.
 
 📫 How to reach me: 
 Just use my email. Look at my homepage for other options.

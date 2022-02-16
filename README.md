@@ -1,17 +1,17 @@
 ### Hey there! 👋
 
-🎊 My name is Erik. I'm a software engineer that is focused on React, Node, Next, TypeScript, and AWS.
+🎊 My name is Erik. I'm a software engineer that is focused on React, Node, Next, TypeScript, Python, and AWS.
 
 😄 My homepage is [erikjbrown.tech](https://erikjbrown.tech).
 
 🔭 I’m currently working on:
-Ecommerce Platform using React, Next.js (SG), TypeScript, Contentful, SAM, and more.
+Serverless Step Function ETL built with Python
 
 📫 How to reach me: 
 Just use my email. Look at my homepage for other options.
 
 ⚡ Fun facts:
-I have a life outside of coding as well. Some of the things I enjoy include mountain biking, video games, a little exercise, and custom PCs. 
+I have a life outside of coding as well. Some of the things I enjoy include mountain biking, video games, walking, and custom PCs. 
 
 Find more of my code on:
 - [NPM](https://www.npmjs.com/~erkjbro)

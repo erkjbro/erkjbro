@@ -5,13 +5,13 @@
 😄 My homepage is [erikjbrown.tech](https://erikjbrown.tech).
 
 🔭 I’m currently working on:
-Serverless Step Function ETL built with Python
+Filling gaps following launch of e-comm replatform.
 
 📫 How to reach me: 
-Just use my email. Look at my homepage for other options.
+Just use my e-mail. Check my homepage for other options.
 
 ⚡ Fun facts:
-I have a life outside of coding as well. Some of the things I enjoy include mountain biking, video games, walking, and custom PCs. 
+I have a life outside of coding as well. Some of the things I enjoy include Jeeps, mountain biking, video games, walking, and custom PCs. 
 
 Find more of my code on:
 - [NPM](https://www.npmjs.com/~erkjbro)

@@ -5,7 +5,7 @@
 😄 My homepage is [erikjbrown.tech](https://erikjbrown.tech).
 
 🔭 I’m currently working on:
-Filling gaps following launch of e-comm replatform.
+Planning a new solo project.
 
 📫 How to reach me: 
 Just use my e-mail. Check my homepage for other options.

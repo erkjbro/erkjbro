@@ -8,7 +8,7 @@
 Planning a new solo project.
 
 📫 How to reach me: 
-Just use my e-mail. Check my homepage for other options.
+Just use my email. Check my homepage for other options.
 
 ⚡ Fun facts:
 I have a life outside of coding as well. Some of the things I enjoy include Jeeps, mountain biking, video games, walking, and custom PCs. 

@@ -5,7 +5,7 @@
 😄 My homepage is [erikjbrown.tech](https://erikjbrown.tech).
 
 🔭 I’m currently working on:
-Rebuilding my homepage to leverage Contentful, Nx, etc. Will work on updaing unit and e2e testing once it's developed and stable.
+Rebuilding my homepage to leverage Contentful, Nx, etc. Will work on updating unit and e2e testing once it's developed and stable.
 
 📫 How to reach me: 
 Just use my email. Check my homepage for other options.

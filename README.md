@@ -1,21 +1,24 @@
 ### Hey there! 👋
 
-🎊 My name is Erik. I'm a software engineer that is focused on React, Node, Next, TypeScript, Python, and AWS.
+🎊 My name is Erik. I'm a Software Engineer @ Ollion
 
 😄 My homepage is [erikjbrown.tech](https://erikjbrown.tech).
 
-🔭 I’m currently working on:
-Testing approaches and strategies with SAM pipelines.
+🌱 I’m currently learning:
+Go and gRPC for use with k8s microservices.
 
-📫 How to reach me: 
-Just use my email. Check my homepage for other options.
+🔭 I’m currently working on:
+Upgrades and modernization for internal API and UI tooling.
 
 ⚡ Fun facts:
-I have a life outside of coding as well. Some of the things I enjoy include Jeeps, mountain biking, video games, walking, and custom PCs. 
+I have a life outside of coding as well. Some of the things I enjoy include video games, custom PCs, anime, golf, and Jeeps! 
 
 Find more of my code on:
 - [NPM](https://www.npmjs.com/~erkjbro)
 - [Docker](https://hub.docker.com/u/erkjbro)
+
+📫 How to reach me: 
+Just use my email. Check my homepage for other options.
 
 <!--
 **erkjbro/erkjbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

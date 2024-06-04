@@ -5,10 +5,10 @@
 😄 My homepage is [erikjbrown.tech](https://erikjbrown.tech).
 
 🌱 I’m currently learning:
-Go and gRPC for use with k8s microservices.
+Kubernetes, Helm, Flux, Kind, ArgoCD, Vault, & Terraform.
 
 🏗️ I’m currently working on:
-Upgrades and modernization for internal API and UI tooling.
+Migrating EKS clusters to new k8s versions.
 
 ⚡ Fun facts:
 I have a life outside of coding as well. Some of the things I enjoy include video games, custom PCs, anime, golf, and Jeeps! 
